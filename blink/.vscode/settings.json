@@ -1,0 +1,9 @@
+{
+     "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "${workspaceFolder}/../deps/pico-sdk/src/**",
+    "${workspaceFolder}/../deps/pico-sdk/lib/**"
+  ]
+}

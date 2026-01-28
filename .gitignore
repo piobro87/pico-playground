@@ -56,3 +56,4 @@ dkms.conf
 
 build/
 deps/
+.vscode/*.bak
