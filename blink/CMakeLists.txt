@@ -1,5 +1,7 @@
 cmake_minimum_required(VERSION 3.13)
 
+set(PICO_BOARD pico2)
+
 include(/home/piobr/projects_2026/embedded/pico-playground/deps/pico-sdk/external/pico_sdk_import.cmake)
 
 
